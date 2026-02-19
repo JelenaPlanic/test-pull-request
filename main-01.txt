@@ -1,2 +1,6 @@
 main-01.txt
+<<<<<<< HEAD
 TICKET-11
+=======
+hello people
+>>>>>>> d970c40 (ticket-22 make changes (one commit))
